@@ -1,4 +1,4 @@
-# blink_list
+# BlinkLIst
 
 A new Flutter project.
 
