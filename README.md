@@ -30,7 +30,7 @@ Check it out yourself :)
 ## License
 
 ```
-Copyright © 2021 Yazdan Haider
+Copyright © 2023 Yazdan Haider
 
 BlinkList is an open-source todo app distributed under the terms of the GNU General Public License (GPL) v3.0.
 
